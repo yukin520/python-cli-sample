@@ -1,5 +1,5 @@
 
-# python-packaging-sample
+# python-cli-sample
 
 Pythonのパッケージングと、cli用のライブラリ`click`の使い方に関する個人の備忘を兼ねたサンプルリポジトリです。
 `democli`というシンプルなCLIツールをパッケージとして配布することを想定しています。
