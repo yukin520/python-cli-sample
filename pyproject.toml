@@ -1,0 +1,20 @@
+[project]
+name = "democli"
+version = "0.0.1"
+authors = [
+  { name="Yuki" },
+]
+description = "cli program for package demo"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+dependencies = [
+    "click",
+    "rich"
+]
+
+[project.scripts]
+democli = "democli.main:main"
