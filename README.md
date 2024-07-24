@@ -27,7 +27,7 @@ democli edit-file --file-path README.md
 ## install
 
 ```shell
-$ git clone https://github.com/Yuki0520-ba/python-cli-sample.git
+$ git clone https://github.com/yukin520/python-cli-sample.git
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 $ pip install ./python-cli-sample
@@ -36,5 +36,5 @@ $ pip install ./python-cli-sample
 ```shell
 $ python3 -m venv .venv
 $ source .venv/bin/activate
-$ pip install git+https://github.com/Yuki0520-ba/python-cli-sample.git
+$ pip install git+https://github.com/yukin520/python-cli-sample.git
 ```
